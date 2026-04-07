@@ -1,0 +1,73 @@
+{
+  "tabs": {
+    "rankings": "Rankings",
+    "schedule": "Agenda",
+    "favorites": "Favoritos",
+    "settings": "Ajustes"
+  },
+  "rankings": {
+    "title": "Ranking Mundial",
+    "men": "Masculino",
+    "women": "Feminino",
+    "points": "pontos"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma",
+    "theme": "Tema",
+    "dark_mode": "Modo Escuro",
+    "light_mode": "Modo Claro",
+    "account": "Conta",
+    "login": "Entrar",
+    "logout": "Sair"
+  },
+  "player_detail": {
+    "bio": "Biografia",
+    "technical": "Detalhes Técnicos",
+    "hand": "Mão",
+    "grip": "Empunhadura",
+    "style": "Estilo de Jogo",
+    "equipment": "Equipamento",
+    "points": "Pontos",
+    "rank": "Ranking",
+    "right_handed": "Destro",
+    "left_handed": "Canhoto",
+    "offensive": "Ofensivo",
+    "defensive": "Defensivo",
+    "allround": "Allround",
+    "none": "Nenhuma biografia disponível."
+  },
+  "schedule": {
+    "title": "Agenda de Jogos",
+    "live": "AO VIVO",
+    "scheduled": "PROGRAMADO",
+    "details": "Detalhes",
+    "empty": "Nenhuma partida encontrada para os próximos dias."
+  },
+  "favorites": {
+    "empty_title": "Nenhum jogador favoritado",
+    "empty_subtitle": "Marque seus jogadores favoritos no ranking para encontrá-los aqui rapidamente."
+  },
+  "auth": {
+    "welcome": "Boas-vindas",
+    "create_account": "Criar Conta",
+    "login_subtitle": "Entre para gerenciar seus jogadores favoritos",
+    "signup_subtitle": "Cadastre-se para sincronizar seus favoritos",
+    "email": "E-mail",
+    "password": "Senha",
+    "login_button": "Entrar",
+    "signup_button": "Cadastrar",
+    "switch_to_signup": "Não tem uma conta? Cadastre-se",
+    "switch_to_login": "Já tem uma conta? Entrar",
+    "error_title": "Erro",
+    "success_title": "Sucesso",
+    "fill_all_fields": "Preencha todos os campos",
+    "check_email": "Verifique seu e-mail para confirmar a conta"
+  },
+  "common": {
+    "logout_confirm": "Tem certeza que deseja sair?",
+    "yes": "Sim",
+    "no": "Não",
+    "loading": "Carregando..."
+  }
+}

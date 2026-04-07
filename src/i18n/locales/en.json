@@ -1,0 +1,73 @@
+{
+  "tabs": {
+    "rankings": "Rankings",
+    "schedule": "Schedule",
+    "favorites": "Favorites",
+    "settings": "Settings"
+  },
+  "rankings": {
+    "title": "World Rankings",
+    "men": "Men",
+    "women": "Women",
+    "points": "points"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "theme": "Theme",
+    "dark_mode": "Dark Mode",
+    "light_mode": "Light Mode",
+    "account": "Account",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "player_detail": {
+    "bio": "Biography",
+    "technical": "Technical Details",
+    "hand": "Hand",
+    "grip": "Grip",
+    "style": "Playing Style",
+    "equipment": "Equipment",
+    "points": "Points",
+    "rank": "Ranking",
+    "right_handed": "Right-handed",
+    "left_handed": "Left-handed",
+    "offensive": "Offensive",
+    "defensive": "Defensive",
+    "allround": "Allround",
+    "none": "N/A"
+  },
+  "schedule": {
+    "title": "Match Schedule",
+    "live": "LIVE",
+    "scheduled": "SCHEDULED",
+    "details": "Details",
+    "empty": "No matches found for the coming days."
+  },
+  "favorites": {
+    "empty_title": "No favorite players",
+    "empty_subtitle": "Star your favorite players in the rankings to find them here quickly."
+  },
+  "auth": {
+    "welcome": "Welcome",
+    "create_account": "Create Account",
+    "login_subtitle": "Login to manage your favorite players",
+    "signup_subtitle": "Sign up to sync your favorites",
+    "email": "Email",
+    "password": "Password",
+    "login_button": "Login",
+    "signup_button": "Sign Up",
+    "switch_to_signup": "Don't have an account? Sign up",
+    "switch_to_login": "Already have an account? Login",
+    "error_title": "Error",
+    "success_title": "Success",
+    "fill_all_fields": "Please fill in all fields",
+    "check_email": "Check your email to confirm your account"
+  },
+  "common": {
+    "logout_confirm": "Are you sure you want to sign out?",
+    "yes": "Yes",
+    "no": "No",
+    "loading": "Loading..."
+  }
+}
